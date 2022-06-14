@@ -1,0 +1,5 @@
+Jan;Testowy;jan@testowy.pl;123456;2,2,2,2,3.5,3,5,4
+Anna;Nowak;anna@nowak.pl;321654;5,4,5,3,4.5
+Leroy;Jenkins;leroy@wow.pl;789456;2,2,2
+Johnny;Cage;johnny@mk.pl;546123;3,3,3
+John;Snow;uknownothing@johnsnow.pl;999999;4;4;5;2
